@@ -21,3 +21,12 @@ FOR
 =====================
 
 // Addition of two Numbers A and B
+
+START
+READ Number1, Number2
+
+SET Sum=Number1+Number2
+
+PRINT Sum
+END
+============
