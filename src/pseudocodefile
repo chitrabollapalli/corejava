@@ -21,3 +21,31 @@ FOR
 =====================
 
 // Addition of two Numbers A and B
+
+START
+
+READ Number1
+READ Number2
+
+SET Sum =Number1 + Number2
+
+PRINT Sum
+END
+
+===============================
+//Number is Even or not
+
+START
+READ  Number
+
+IF Number moduler divided by 2
+PRINT "Even"
+ELSE
+PRINT "ADD"
+
+END
+=====================
+
+
+
+
