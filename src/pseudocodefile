@@ -30,3 +30,16 @@ SET Sum=Number1+Number2
 PRINT Sum
 END
 ============
+
+// Even or Odd Numbers
+
+START
+READ Number
+
+IF Number moduler divided by 2
+
+PRINT "Even"
+ ELSE
+ PRINT "ODD"
+
+ =====================
