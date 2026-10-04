@@ -1,0 +1,59 @@
+// I want to write basic pseudocode
+
+START
+READ input
+Initialize variables
+Apply logic step by step
+PRINT Output
+END
+===================
+
+//Common Keywords
+
+START
+ENO
+READ
+PRINT
+SET
+IF/ELSE
+WHILE
+FOR
+=====================
+
+// Addition of two Numbers A and B
+
+START
+READ Number1, Number2
+
+SET Sum=Number1+Number2
+
+PRINT Sum
+END
+============
+//IF - ELSE
+//# Even or Odd Numbers
+
+START
+READ Number
+
+IF Number module divided by 2
+
+PRINT "Even"
+ ELSE
+ PRINT "ODD"
+
+ =====================
+
+ //# Print Greatest Number
+
+ START
+ READ number1
+ READ number2
+
+ IF number1>number2 THEN
+ PRINT number1
+ ELSE
+ PRINT number2
+ IF END
+ END
+ =========================
